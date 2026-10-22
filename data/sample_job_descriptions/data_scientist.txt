@@ -1,0 +1,23 @@
+Job Title: Data Scientist
+Seniority: Junior / Mid-Level
+Department: Data Analytics & Insights
+
+About the Role:
+We are seeking a curious, analytical Data Scientist to turn complex business datasets into predictive models and strategic insights.
+
+Responsibilities:
+- Perform exploratory data analysis and build predictive statistical models.
+- Write robust, optimized SQL queries and manage ETL data pipelines.
+- Build classification and regression models using Scikit-Learn and Pandas.
+- Present data visualizations and experimental findings to cross-functional stakeholders.
+
+Required Qualifications:
+- 1+ years of experience analyzing structured and unstructured data using Python and SQL.
+- Strong knowledge of Statistics, Data Analysis, and Data Structures & Algorithms.
+- Hands-on experience with Pandas, NumPy, Matplotlib, and Scikit-Learn.
+- Experience utilizing Git for collaborative version control.
+
+Preferred Qualifications:
+- Familiarity with Cloud platforms (GCP or AWS).
+- Basic exposure to Deep Learning or PyTorch.
+- Experience with Docker and containerized deployment.

@@ -1,0 +1,26 @@
+# Python bytecode and caches
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+
+# Environments
+.venv/
+venv/
+ENV/
+env/
+
+# Environment and sensitive keys
+.env
+*.pem
+*.key
+
+# Generated user assessment reports (preserve gitkeep)
+output/*.md
+output/*.json
+!output/.gitkeep
+
+# IDEs
+.vscode/
+.idea/
+.DS_Store

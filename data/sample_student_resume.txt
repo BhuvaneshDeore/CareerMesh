@@ -1,0 +1,33 @@
+Alex Sharma
+alex.sharma@example.edu | github.com/alexsharma-dev | linkedin.com/in/alexsharma
+
+PROFILE SUMMARY
+Enthusiastic Computer Science senior specializing in Machine Learning and Python application development. Practical experience building end-to-end data analysis scripts, predictive models, and web crawlers. Seeking an Entry-Level AI / ML Engineer position.
+
+EDUCATION
+Bachelor of Science in Computer Science, University of Technology
+Expected Graduation: May 2027 | GPA: 3.8/4.0
+Relevant Coursework: Data Structures & Algorithms, Machine Learning, Database Management Systems, Linear Algebra & Statistics
+
+TECHNICAL SKILLS
+- Programming: Python, C++, SQL, Bash/Shell, Linux
+- Data & ML: Pandas, NumPy, Scikit-Learn, Matplotlib, Data Analysis, Statistics
+- Web & Tools: Git, GitHub, REST APIs, SQLite
+- Concepts: Object-Oriented Programming (OOP), Model Validation, Regression, Classification
+
+PROJECTS
+1. Customer Churn Prediction Engine (Python, Pandas, Scikit-Learn)
+- Built classification model predicting subscription cancellations with 88% accuracy across 15,000 customer records.
+- Conducted feature engineering and exploratory data analysis using Pandas and NumPy.
+- Tracked experiment metrics and handled class imbalance using SMOTE.
+
+2. Automated Research Paper Summarizer (Python, NLP, Regex)
+- Developed a command-line tool extracting keywords and summarizing academic paper abstracts.
+- Performed text preprocessing, tokenization, and TF-IDF analysis using Scikit-Learn.
+- Utilized Git for version control and published codebase to GitHub with complete documentation.
+
+EXPERIENCE
+Undergraduate Research Assistant | AI Lab
+September 2025 - Present
+- Cleaned and prepared large tabular datasets using Python and SQL for lab researchers.
+- Automated evaluation script pipelines reducing data preprocessing turnaround time by 35%.

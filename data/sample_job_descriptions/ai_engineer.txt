@@ -1,0 +1,26 @@
+Job Title: AI Engineer (Generative AI & LLMs)
+Seniority: Mid-Level
+Department: Applied AI Engineering
+
+About the Role:
+We are looking for an AI Engineer to build, evaluate, and deploy scalable Generative AI and LLM applications. You will collaborate with product and platform teams to design retrieval-augmented generation (RAG) pipelines and production-grade intelligent services.
+
+Responsibilities:
+- Design and implement RAG pipelines and autonomous agent workflows.
+- Build production-ready REST APIs using FastAPI to serve model inferences.
+- Collaborate with MLOps engineers to containerize workloads using Docker and deploy to AWS.
+- Monitor model performance, latency, and context window efficiency in production.
+- Write unit tests and maintain high code quality with Git and CI/CD pipelines.
+
+Required Qualifications:
+- 2+ years of software development experience with strong proficiency in Python and SQL.
+- Deep hands-on experience with Machine Learning and Deep Learning frameworks (PyTorch or TensorFlow).
+- Practical experience with Large Language Models (LLMs), LangChain, and Prompt Engineering.
+- Familiarity with Vector Databases (such as Pinecone or ChromaDB) and RAG architecture.
+- Hands-on experience with Docker containerization and Git version control.
+
+Preferred Qualifications:
+- Experience with FastAPI or Flask for serving backend microservices.
+- Experience with MLOps tools (MLflow or DVC) and cloud platforms (AWS or GCP).
+- Understanding of transformer model architectures and Hugging Face pipelines.
+- Bachelor's or Master's degree in Computer Science, Data Science, or related engineering discipline.
